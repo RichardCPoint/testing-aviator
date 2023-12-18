@@ -1,0 +1,11 @@
+{
+  "name": "testing-aviator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
